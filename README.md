@@ -3,4 +3,4 @@ Esse projeto visa ser um Testador de Carga para uso de uma empresa do Sul do Bra
 
 
 
-// Agradecimento especial a: Rogério F. Noal. Sem ele, esse projeot não seria possível.
+// Agradecimento especial a: Rogério F. Noal. Sem ele, esse projeto não seria possível.
